@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\testapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D839EED8-5A03-41F7-B8C2-824A0AAC7394}|testapp\\testapp.csproj|d:\\testapp\\testapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D839EED8-5A03-41F7-B8C2-824A0AAC7394}|testapp\\testapp.csproj|solutionrelative:testapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\testapp\\testapp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "testapp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\testapp\\testapp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "testapp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:17:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
